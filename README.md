@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Archlypse
+- 👀 I’m interested in: roblox scripting
+- 🌱 I’m currently learning: Luau/Lua
+- 💞️ I’m looking to collaborate: none (just now)
+- 📫 How to reach me: discord(archlypse)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i don't play instagram and tiktok
