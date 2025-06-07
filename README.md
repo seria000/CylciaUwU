@@ -4,7 +4,7 @@
 > I’m currently learning: Lua[u]
 > Pronouns: He/Him
 > Code editor: Vscode
-> Executor: swift
+> Executor: Swift
 ```
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=CylciaUwU&show_icons=true&count_private=true&theme=dark)](https://github.com/CylciaUwU)
