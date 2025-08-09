@@ -7,4 +7,4 @@
 > Executor: Swift
 ```
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=CylciaUwU&show_icons=true&count_private=true&theme=dark)](https://github.com/seria000)
+[![Stats](https://github-readme-stats.vercel.app/api?username=seria000&show_icons=true&count_private=true&theme=dark)](https://github.com/seria000)
